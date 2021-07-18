@@ -29,7 +29,7 @@
 
 ## :bookmark: Sobre
 
-O <strong>clone da interface do Youtube</strong> é uma aplicação Web utilizada para praticar novos fundamentos de construção de interface, utilizando uma biblioteca criada pela google para facilitar a criação interfaces de formar moderna e agil.
+O <strong>clone da interface do Youtube</strong> é uma aplicação Web utilizada para praticar novos fundamentos de construção de interface, utilizando uma biblioteca criada pela google para facilitar a criação de interfaces de formar moderna e agil.
 
 
 <a id="tecnologias-utilizadas"></a>
